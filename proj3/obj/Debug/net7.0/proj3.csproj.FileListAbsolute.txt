@@ -1,0 +1,15 @@
+F:\code\projects\proj3\bin\Debug\net7.0\proj3.exe
+F:\code\projects\proj3\bin\Debug\net7.0\proj3.deps.json
+F:\code\projects\proj3\bin\Debug\net7.0\proj3.runtimeconfig.json
+F:\code\projects\proj3\bin\Debug\net7.0\proj3.dll
+F:\code\projects\proj3\bin\Debug\net7.0\proj3.pdb
+F:\code\projects\proj3\obj\Debug\net7.0\proj3.csproj.AssemblyReference.cache
+F:\code\projects\proj3\obj\Debug\net7.0\proj3.GeneratedMSBuildEditorConfig.editorconfig
+F:\code\projects\proj3\obj\Debug\net7.0\proj3.AssemblyInfoInputs.cache
+F:\code\projects\proj3\obj\Debug\net7.0\proj3.AssemblyInfo.cs
+F:\code\projects\proj3\obj\Debug\net7.0\proj3.csproj.CoreCompileInputs.cache
+F:\code\projects\proj3\obj\Debug\net7.0\proj3.dll
+F:\code\projects\proj3\obj\Debug\net7.0\refint\proj3.dll
+F:\code\projects\proj3\obj\Debug\net7.0\proj3.pdb
+F:\code\projects\proj3\obj\Debug\net7.0\proj3.genruntimeconfig.cache
+F:\code\projects\proj3\obj\Debug\net7.0\ref\proj3.dll
